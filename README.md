@@ -11,7 +11,7 @@
 
 ▪ All categories of vehicles which are 7 as per NHAI with different charges for each category
 
-▪ Return charges(Round Journey Charges - Single Journey Charges) are applicable if the vehicle returns within 12 hours, once the vehicle return the round trip is completed now even if it comes again 3 rd time in that 12 hours the vehicle will be charged single journey charges if it comes for fourth time within 12 hours of 3 rd trip will be charged return journey charges and so on
+▪ Return charges(Round Journey Charges - Single Journey Charges) are applicable if the vehicle returns within 12 hours, once the vehicle returns the round trip is completed now even if it comes again 3 rd time in that 12 hours the vehicle will be charged single journey charges if it comes for fourth time within 12 hours of 3 rd trip will be charged return journey charges and so on
 
 ▪ Instant Email to vehicle owner and terminal display as soon as the vehicle crosses a toll plaza with all details including the toll plaza name, state, time, journey type(single or return), applicable charges, and updated account balance.
 
